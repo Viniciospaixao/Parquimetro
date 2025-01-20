@@ -1,0 +1,11 @@
+com\br\parquimetro\ParquimetroFiap\Entity\Resgister.class
+com\br\parquimetro\ParquimetroFiap\Repository\RegisterRepository.class
+com\br\parquimetro\ParquimetroFiap\Configuration\SpringDocConfig.class
+com\br\parquimetro\ParquimetroFiap\Dto\ResgisterDTO.class
+com\br\parquimetro\ParquimetroFiap\Service\ResgisterService.class
+com\br\parquimetro\ParquimetroFiap\Repository\ComprovanteRepository.class
+com\br\parquimetro\ParquimetroFiap\Util\CalculadoraEstacionamento.class
+com\br\parquimetro\ParquimetroFiap\Enums\Status.class
+com\br\parquimetro\ParquimetroFiap\Controller\ParkingsController.class
+com\br\parquimetro\ParquimetroFiap\Entity\Comprovante.class
+com\br\parquimetro\ParquimetroFiap\ParquimetroFiapApplication.class
